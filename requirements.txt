@@ -1,8 +1,8 @@
-streamlit==1.32.2
-yfinance==0.2.37
-pandas==2.0.3
-numpy==1.24.3
-plotly==5.18.0
-matplotlib==3.7.1
-python-dateutil==2.8.2
-requests==2.31.0
+streamlit
+yfinance
+pandas
+numpy
+plotly
+matplotlib
+python-dateutil
+requests
